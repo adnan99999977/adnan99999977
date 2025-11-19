@@ -62,9 +62,16 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 # **Connect With Me**
 
 <p align="center">
-  <a href="https://github.com/mdriyazakondo"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-  <a href="[https://www.linkedin.com/in/naif-adnan-1baa5a333/]"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-</a>  <a href="mailto:naifadnan999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+<a href="https://github.com/adnan99999977">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+<a href="https://www.linkedin.com/in/naif-adnan-1baa5a333/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+<a href="mailto:naifadnan999@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
 
 #  Profile Insights
 <p align="center">
