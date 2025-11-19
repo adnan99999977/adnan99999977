@@ -39,7 +39,7 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
 ###  **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,windows,netlify&theme=dark" />
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -63,13 +63,16 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 
 <p align="center">
 <a href="https://github.com/adnan99999977">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="30"/>
 </a>
+    <a href="https://www.facebook.com/naif.adnan.90" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="50" />
+  </a>
 <a href="https://www.linkedin.com/in/naif-adnan-1baa5a333/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
 </a>
 <a href="mailto:naifadnan999@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="30"/>
 </a>
 
 
