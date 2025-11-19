@@ -1,10 +1,10 @@
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://ik.imagekit.io/p6xhtogcb/Green%20and%20White%20Minimalist%20Business%20Profile%20with%20Photo%20Profile%20LinkedIn%20Banner.png" width="100%" style="border-radius: 12px;" />
+  <img src="https://ik.imagekit.io/p6xhtogcb/Brown%20&%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png" width="100%" style="border-radius: 12px;" />
 </p>
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Hi+there+I'm+Naif+Adnan;Professional+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ebedf0&center=true&vCenter=true&width=500&lines=Hi+there+I'm+Naif+Adnan;Professional+Web+Developer" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -81,7 +81,7 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:274e61,100:0a1f29&height=120&section=footer"width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d6063,100:ebedf0&height=120&section=footer"width="100%"/>
 </p>
 
  Designed with  by **NAIF ADNAN**
