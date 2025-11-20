@@ -1,7 +1,8 @@
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://ik.imagekit.io/p6xhtogcb/Brown%20&%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png" width="100%" style="border-radius: 12px;" />
+  <img src="https://i.postimg.cc/hPZsGrSB/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png" width="100%" style="border-radius: 12px;" />
 </p>
+
 <!-- Animated Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ebedf0&center=true&vCenter=true&width=500&lines=Hi+there+I'm+Naif+Adnan;Professional+Web+Developer" />
