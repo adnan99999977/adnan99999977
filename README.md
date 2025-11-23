@@ -37,7 +37,7 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,webpack,vite&theme=dark" />
 
 ###  **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
 ###  **Designs Tools**
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,figma,photoshop&theme=dark" />
