@@ -50,8 +50,8 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics </h3>
-<img align="left" height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan99999977&layout=compact&theme=dark" alt="adnan99999977" />
-<p>&nbsp;<img align="center" height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=adnan99999977&show_icons=true&locale=en&theme=dark" alt="adnan99999977" /></p>
+
+
 <p align="center">
   <img width="60%" 
        src="https://nirzak-streak-stats.vercel.app/?user=adnan99999977&theme=dark&hide_border=false" 
